@@ -4,9 +4,6 @@
 ### Collabnix Online Webinar: Demystifying Container Networking
 
 
-### Speaker: [Balasundaram Nataraj](https://www.linkedin.com/in/balasundaram-natarajan-43471115/)
-
-### Slides:
 
 
 | Topic        | Presenter   | Presentation          | Video  | Chat |
