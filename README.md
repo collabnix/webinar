@@ -1,4 +1,4 @@
-# On-Demand DockerLabs Webinar 
+# Welcome to Collabnix Webinar 
 
 ## Date - 15 September 2019
 ## Collabnix Online Webinar: Demystifying Container Networking
