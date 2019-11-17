@@ -1,7 +1,7 @@
 ## Welcome to Collabnix Webinar Series
 
 
-## Upcoming Webinar:
+## View Upcoming Webinars:
 
 ### Date: 21-Nov-2019
 
@@ -11,10 +11,7 @@
 
 
 
-## Past Webinars:
-
-
-
+## View Past Webinars:
 
 ### Date - 15 September 2019
 
