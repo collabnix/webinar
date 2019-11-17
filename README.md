@@ -2,7 +2,6 @@
 <br>
 <br>
 
-
 ### Date - 15 September 2019
 ### Collabnix Online Webinar: Demystifying Container Networking
 
