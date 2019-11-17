@@ -9,7 +9,8 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Integrated Log Analytics and Monitoring of Servers using Docker Containers & Elastic Stack |  [Prashansa Kulshrestha](https://www.linkedin.com/in/prashansa-k/) | [Slides](-) | [Recording](-) | [Logs](-) |
 
-
+<br>
+<br>
 
 ## View Past Webinars:
 
