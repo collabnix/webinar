@@ -1,4 +1,3 @@
-# Welcome to Collabnix Webinar 
 <br>
 <br>
 
