@@ -3,6 +3,8 @@
 
 ## Upcoming Webinar:
 
+### Date: 21-Nov-2019
+
 | Topic        | Presenter   | Presentation          | Video  | Chat |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Integrated Log Analytics and Monitoring of Servers using Docker Containers & Elastic Stack |  [Prashansa Kulshrestha](https://www.linkedin.com/in/prashansa-k/) | [Slides](-) | [Recording](-) | [Logs](-) |
