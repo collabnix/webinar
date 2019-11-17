@@ -1,10 +1,8 @@
 # On-Demand DockerLabs Webinar 
 
-# Date - 15 September 2019
-# Collabnix Online Webinar: Demystifying Container Networking
+## Date - 15 September 2019
+## Collabnix Online Webinar: Demystifying Container Networking
 
-
-### Venue: Online Webinar
 
 ### Speaker: [Balasundaram Nataraj](https://www.linkedin.com/in/balasundaram-natarajan-43471115/)
 
