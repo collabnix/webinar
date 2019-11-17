@@ -1,7 +1,5 @@
 ## Welcome to Collabnix Webinar Series
 
-<br>
-<br>
 
 ### Date - 15 September 2019
 
