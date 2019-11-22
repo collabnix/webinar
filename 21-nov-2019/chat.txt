@@ -1,0 +1,72 @@
+00:15:55	Rajesh Rathan:	no audio ...
+00:16:36	balasundaram:	I can hear
+00:16:43	Rajesh Rathan:	I am not 
+00:16:55	balasundaram:	pl check ur audio setting
+00:17:04	Rakesh:	It's audible 
+00:17:07	Rajesh Rathan:	ok
+00:17:30	Rajesh Rathan:	yes I can now .
+00:19:32	Objectedge:	Guys please mute yourself.. 
+00:20:05	Ajeet Raina:	Please mute yourself
+00:21:42	Ajeet Raina:	Please drop your questions here
+00:22:55	Rajesh Rathan:	could you please share the sesion link to this email 
+rajeshct.bit@gmail.com
+00:23:02	Rajesh Rathan:	after completion
+00:24:22	Ajeet Raina:	Sure
+00:25:00	Varun:	Could we get recording video for future reference 
+00:28:51	Sriram Neelakanta Subramoney:	Hi, could you pls share the session's link on Meetup as well. There seems to be some folks waiting to receive it on Meetup
+00:31:28	Ajeet Raina:	Venkatesh, you can use Logstash plugin in case of Jenkins to push your logs to ELK
+00:31:46	Ajeet Raina:	You might need to look out for plugins to push logs to Elastic
+00:33:31	Objectedge:	Please mute yourself 
+00:33:48	SAIDANI:	I can’t hear very well
+00:33:50	SAIDANI:	!!
+00:33:59	SAIDANI:	Ok it’s good now
+00:34:02	SAIDANI:	^^
+00:34:03	Ajeet Raina:	@Mouli, can you please mute
+00:34:07	Mart:	Will the presentation be shared?
+00:34:14	Ajeet Raina:	Yeah
+00:34:28	Ajeet Raina:	https://events.collabnix.com will be locatiom where slides will be shared
+00:34:40	Mart:	Thank you
+00:38:06	SAIDANI:	Input, trigger, condition, action
+00:40:08	balasundaram:	does the watcher service keep tracks of the physical memory  or processor failure 
+00:40:30	SAIDANI:	yeah, is all about the condition!!
+00:41:17	Ajeet Raina:	Hello Bala, yes the watcher service is capable to track any CPU or memory issue
+00:41:41	Ajeet Raina:	Usually we focus on workloads imposed on the server 
+00:41:54	Gyan:	can you get alert mail
+00:42:21	Gyan:	after more cpu utilization
+00:43:23	SAIDANI:	Check this link https://www.elastic.co/guide/en/elasticsearch/reference/7.4/actions-email.html
+00:43:35	Balaram Pratap:	can I know where are you using Splunk?
+Is this how you are able.to analyze logs which are stored in elastic stack?
+00:43:50	balasundaram:	Thanks Ajeeth and Prasansha
+00:44:48	Gyan:	is SPLUNK support in windows and LINUX?
+00:44:50	Mahendra Lalani:	how can i used redfish API in my project
+00:47:53	Ajeet Raina:	Mahendra, you can use it for any hardware which support Redfish 
+Redfish is supported on Dell starting 12G+
+It works on all latest HW which support Redfish 
+You can check if Redfish is supported or not using iDRAC or HPE iLO
+
+00:48:25	balasundaram:	https://github.com/DMTF
+00:48:55	balasundaram:	 Mahendra pl look at this
+00:49:41	Mahendra Lalani:	thank you sir it's really very helpful
+00:51:00	Ajeet Raina:	Think of Packets.net which host Dell, HPE or Supermicro server. You can use Redfish API to reboot, config changes  etc. sitting on your laptop
+00:51:36	Ajeet Raina:	Redfish API is powerful enough to control and config the remote HW without any great effort
+00:55:46	Objectedge:	Great session Thanks to Both...
+00:56:00	Reddy:	How to configure slack alerts ?
+00:56:11	Sriram Neelakanta Subramoney:	Great session. Thank you.
+00:56:14	balasundaram:	its a great session Thanks 
+00:56:24	Varun:	Really informative ..Thanks 
+00:56:45	Rajesh:	Great Session..Thanks to Both
+00:56:54	Vikrant Verma:	Can I use RedFish API with AWS instances? 
+00:57:11	Gyan:	can we  use YML format instead of JSON format
+00:57:45	karam:	It was a knowledgeable session. thanks @prashansa @ajeet. Keep it up.
+00:57:50	Vikrant Verma:	Can I use RedFish API with AWS instances? 
+00:57:52	Gyan:	thank you
+00:58:07	Balaram Pratap:	Hadoop instead of elastic stack?
+00:59:12	Vikrant Verma:	Okay Thank you
+00:59:14	Reddy:	We are using ELK and I am planning to configure Slack.. If you don't mind could you please share the process doc how to configure slack
+01:00:06	balasundaram:	just wanted to added in HP systems I used IPMI, IPMI is a standard that's used for remote ystem management, redfish gives more faetures
+01:01:20	Yadav Lamichhane:	Great session indeed! Thank you @ajeet Dai and @Prashansa for organizaing this event. 
+01:02:54	Reddy:	Thank you very much
+01:03:29	Logesh chandrasekar:	awesome session, thanks guys
+01:03:41	Gyan:	awesome session
+
+01:04:05	Mahendra Lalani:	thank you sir
