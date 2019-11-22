@@ -7,7 +7,7 @@
 
 | Topic        | Presenter   | Presentation          | Video  | Chat |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Integrated Log Analytics and Monitoring of Servers using Docker Containers & Elastic Stack |  [Prashansa Kulshrestha](https://www.linkedin.com/in/prashansa-k/) | [Slides](https://www.slideshare.net/ajeetraina/collabnix-online-webinar-integrated-log-analytics-monitoring-using-docker-elastic-stack) | [Recording](https://docker.zoom.us/recording/play/2F7iOUn9rcixr8N6AjEDZYswNKw78nwfzya4SFzF7hFid7JDNYxLVVrP_0Y28Pcg?continueMode=true) | [Logs](https://github.com/collabnix/webinar/21-nov-2019/chat.txt) |
+| Integrated Log Analytics and Monitoring of Servers using Docker Containers & Elastic Stack |  [Prashansa Kulshrestha](https://www.linkedin.com/in/prashansa-k/) | [Slides](https://www.slideshare.net/ajeetraina/collabnix-online-webinar-integrated-log-analytics-monitoring-using-docker-elastic-stack) | [Recording](https://docker.zoom.us/recording/play/2F7iOUn9rcixr8N6AjEDZYswNKw78nwfzya4SFzF7hFid7JDNYxLVVrP_0Y28Pcg?continueMode=true) | [Logs](https://github.com/collabnix/webinar/blob/master/21-nov-2019/chat.txt) |
 
 <br>
 <br>
