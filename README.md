@@ -9,7 +9,8 @@
 
 | Date     | Topic        | Presenter   | Presentation          | Video  | Chat |
 | ------------- | ------------- | ------------- | ------------- | ------------- | --------| 
-| 11-Jan 2019  | Awesome Traefik - Swapnasagar |  [Swapnasagar](https://www.linkedin.com/in/swapnasagar...) | [-]() | [-]() | [Logs](-) |
+| Feb 2019  | Awesome Traefik - Swapnasagar |  [Suman Chakraborty](https://www.linkedin.com/in/swapnasagar...) | [-]() | [-]() | [Logs](-) |
+| 11-Jan 2019  | Building docker images without Dockerfile - Cloud Native Buildpack |  [Suman Chakraborty ](https://www.linkedin.com/in/schakraborty007) | [Slides]() | [Video]() | [Logs](-) |
 
 <br>
 <br>
