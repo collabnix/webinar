@@ -3,14 +3,12 @@
 
 ## View Upcoming Webinars:
 
-## Year - 2020
-
 
 
 | Date     | Topic        | Presenter   | Presentation          | Video  | Chat |
 | ------------- | ------------- | ------------- | ------------- | ------------- | --------| 
-| Feb 2019  | Awesome Traefik - Swapnasagar |  [Suman Chakraborty](https://www.linkedin.com/in/swapnasagar...) | [-]() | [-]() | [Logs](-) |
-| 11-Jan 2019  | Building docker images without Dockerfile - Cloud Native Buildpack |  [Suman Chakraborty ](https://www.linkedin.com/in/schakraborty007) | [Slides]() | [Video]() | [Logs](-) |
+| 8-Feb 2020  | Awesome Traefik - Swapnasagar |  [Suman Chakraborty](https://www.linkedin.com/in/swapnasagar...) | [-]() | [-]() | [Logs](-) |
+| 11-Jan 2020  | Building docker images without Dockerfile - Cloud Native Buildpack |  [Suman Chakraborty ](https://www.linkedin.com/in/schakraborty007) | [Slides]() | [Video]() | [Logs](-) |
 
 <br>
 <br>
