@@ -14,7 +14,6 @@
 
 ## View Past Webinars:
 
-### Date - 15 September 2019
 
 
 | Topic        | Presenter   | Presentation          | Video  | Chat |
