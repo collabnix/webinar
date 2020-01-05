@@ -7,7 +7,7 @@
 
 | Date     | Topic        | Presenter   | Presentation          | Video  | Chat |
 | ------------- | ------------- | ------------- | ------------- | ------------- | --------| 
-| 8-Feb 2020  | Awesome Traefik - Swapnasagar |  [Suman Chakraborty](https://www.linkedin.com/in/swapnasagar...) | [-]() | [-]() | [Logs](-) |
+| 8-Feb 2020  | Awesome Traefik - Swapnasagar |  [Swapnasagar Pradhan ](https://www.linkedin.com/in/swapnasagar-pradhan-724b2649) | [-]() | [-]() | [Logs](-) |
 | 11-Jan 2020  | Building docker images without Dockerfile - Cloud Native Buildpack |  [Suman Chakraborty ](https://www.linkedin.com/in/schakraborty007) | [Slides]() | [Video]() | [Logs](-) |
 
 <br>
