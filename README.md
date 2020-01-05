@@ -8,7 +8,7 @@
 
 
 | Date     | Topic        | Presenter   | Presentation          | Video  | Chat |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | --------| 
 | 11-Jan 2019  | Awesome Traefik - Swapnasagar |  [Swapnasagar](https://www.linkedin.com/in/swapnasagar...) | [Slides]() | [Recording]() | [Logs]() |
 
 <br>
