@@ -3,7 +3,7 @@
 
 ## View Upcoming Webinars:
 
-### Date: 21-Nov-2019
+### Date: 11-Jan-2019
 
 | Topic        | Presenter   | Presentation          | Video  | Chat |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
