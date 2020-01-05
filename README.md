@@ -3,7 +3,7 @@
 
 ## View Upcoming Webinars:
 
-# Year 2020
+## Year 2020
 
 | Date     | Topic        | Presenter   | Presentation          | Video  | Chat |
 | ------------- | ------------- | ------------- | ------------- | ------------- | --------| 
