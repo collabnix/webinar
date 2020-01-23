@@ -7,7 +7,7 @@
 
 | Date     | Topic        | Presenter   | Presentation          | Video  | Chat |
 | ------------- | ------------- | ------------- | ------------- | ------------- | --------| 
-| 11-Jan   | Awesome Traefik - Ingress Controller for Kubernetes |  [Swapnasagar Pradhan ](https://www.linkedin.com/in/swapnasagar-pradhan-724b2649) | [-]() | [-]() | [-](-) |
+| 11-Jan   | Awesome Traefik - Ingress Controller for Kubernetes |  [Swapnasagar Pradhan ](https://www.linkedin.com/in/swapnasagar-pradhan-724b2649) | [Slides](https://www.slideshare.net/ajeetraina/awesome-traefik-ingress-controller-for-kubernetes-swapnasagar-pradhan) | [-]() | [-](-) |
 | 8-Feb   | Building docker images without Dockerfile - Cloud Native Buildpack |  [Suman Chakraborty ](https://www.linkedin.com/in/schakraborty007) | [-]() | [-]() | [-](-) |
 
 <br>
