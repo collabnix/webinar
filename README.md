@@ -8,7 +8,7 @@
 | Date     | Topic        | Presenter   | Presentation          | Video  | Chat |
 | ------------- | ------------- | ------------- | ------------- | ------------- | --------| 
 | 11-Jan   | Awesome Traefik - Ingress Controller for Kubernetes |  [Swapnasagar Pradhan ](https://www.linkedin.com/in/swapnasagar-pradhan-724b2649) | [Slides](https://www.slideshare.net/ajeetraina/awesome-traefik-ingress-controller-for-kubernetes-swapnasagar-pradhan) | [-]() | [-](-) |
-| 8-Feb   | [Building docker images without Dockerfile - Cloud Native Buildpack](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-cloud-native-buildpack/#/) |  [Suman Chakraborty ](https://www.linkedin.com/in/schakraborty007) | [-]() | [-]() | [-](-) |
+| 8-Feb   | [Building docker images without Dockerfile - Cloud Native Buildpack](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-cloud-native-buildpack/#/) |  [Suman Chakraborty ](https://www.linkedin.com/in/schakraborty007) | [Slides](https://www.slideshare.net/suchakra012/cloud-native-buildpackscollabnix) | [Github_URl_application](https://github.com/suchakra012/cnb_goapp.git) | [-](-) |
 
 <br>
 <br>
